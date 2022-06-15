@@ -15,4 +15,6 @@ This script it should be used only with Silverblue but you can use it with Kinoi
 
 How to use it?
 
-`bash -c "$(curl -fsSL https://raw.githubusercontent.com/MikuOcta/SilverblueSetup/setup.sh)"`
+`bash -c "$(curl -fsSL https://raw.githubusercontent.com/MikuOcta/SilverblueSetup/main/setup.sh)"`
+
+
