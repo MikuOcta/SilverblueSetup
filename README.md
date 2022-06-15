@@ -10,3 +10,9 @@ This script will:
    - Remove the rpm Firefox and install the flatpak Firefox
 
 This script it should be used only with Silverblue but you can use it with Kinoite as well.
+
+--------------------------------------------------------------------------
+
+How to use it?
+
+`bash -c "$(curl -fsSL https://raw.githubusercontent.com/MikuOcta/SilverblueSetup/setup.sh)"`
